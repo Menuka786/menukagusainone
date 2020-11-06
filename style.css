@@ -1,5 +1,5 @@
 .h1Class{
-    background-color: darkorange;
+    color:gold;
     text-align: center;
 }
 img{
@@ -13,13 +13,20 @@ a{
 a:hover{ color: deepskyblue;
 }
 .favs{text-emphasis: center;}
-p{
-    text-align: center;
-    color: firebrick;
-}
+
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
 }
+    h2 {color: orange;
+}
+li {color: red;
+}
+p {
+    color: goldenrod;
+     text-align: center;
+     font-size: large;
+     
+    }
